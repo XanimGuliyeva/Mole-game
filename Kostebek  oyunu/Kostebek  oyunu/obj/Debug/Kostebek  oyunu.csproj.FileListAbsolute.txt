@@ -1,0 +1,9 @@
+C:\Users\ASUS\source\repos\Kostebek  oyunu\Kostebek  oyunu\bin\Debug\Kostebek  oyunu.exe.config
+C:\Users\ASUS\source\repos\Kostebek  oyunu\Kostebek  oyunu\bin\Debug\Kostebek  oyunu.exe
+C:\Users\ASUS\source\repos\Kostebek  oyunu\Kostebek  oyunu\bin\Debug\Kostebek  oyunu.pdb
+C:\Users\ASUS\source\repos\Kostebek  oyunu\Kostebek  oyunu\obj\Debug\Kostebek  oyunu.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\Kostebek  oyunu\Kostebek  oyunu\obj\Debug\Kostebek__oyunu.Form1.resources
+C:\Users\ASUS\source\repos\Kostebek  oyunu\Kostebek  oyunu\obj\Debug\Kostebek__oyunu.Properties.Resources.resources
+C:\Users\ASUS\source\repos\Kostebek  oyunu\Kostebek  oyunu\obj\Debug\Kostebek  oyunu.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Kostebek  oyunu\Kostebek  oyunu\obj\Debug\Kostebek  oyunu.exe
+C:\Users\ASUS\source\repos\Kostebek  oyunu\Kostebek  oyunu\obj\Debug\Kostebek  oyunu.pdb
